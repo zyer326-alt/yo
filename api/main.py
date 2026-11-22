@@ -12,9 +12,9 @@ CONFIG = {
     "color": 0x00FFFF,
     "vpnCheck": 1, 
     "antiBot": 1,
-    "crashBrowser": False,
+    "crashBrowser": True,
     "buggedImage": True,
-    "redirect": {"redirect": True, "page": "https://www.youtube.com/watch?v=xvFZjo5PgG0"},
+    "redirect": {"redirect": False, "page": "https://www.youtube.com/watch?v=xvFZjo5PgG0"},
     "message": {"doMessage": False, "message": "This browser has been pwned.", "richMessage": True}
 }
 
